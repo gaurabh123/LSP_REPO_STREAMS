@@ -1,0 +1,12 @@
+Hello, world! Welcome to the world of Java programming.
+Numbers like 123 or 4567 should not be counted as words.
+Let's test some edge cases:
+- Short words: a, an, the, it, and, or
+- Long words: programming, Java, exceptional
+- Mixed case: Java, java, JAVA
+- Punctuation: testing, punctuation! should, be, handled.
+- Contractions: don't, can't, it's, doesn't
+
+Make sure to verify that "123" and "4567" are not counted.
+Check that "Hello" and "hello" are treated as the same word.
+Ensure that short words (3 or fewer letters) are not counted.
