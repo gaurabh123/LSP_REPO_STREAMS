@@ -5,14 +5,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-
 /**
  * Reads the content of the given file.
  */
 public class FileReader {
     final String filePath;
-
-
+    
     /**
      * Constructor for FileReader.
      *
