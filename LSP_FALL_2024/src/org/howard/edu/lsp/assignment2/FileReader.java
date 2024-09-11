@@ -9,6 +9,7 @@ import java.io.InputStreamReader;
  * Reads the content of the given file.
  */
 public class FileReader {
+	
     final String filePath;
     
     /**

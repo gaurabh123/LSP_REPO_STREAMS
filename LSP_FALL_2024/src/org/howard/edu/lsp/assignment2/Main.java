@@ -8,6 +8,7 @@ import java.util.Map;
  * Main Class, constructs the required objects and runs the logic. 
  */
 public class Main {
+	
 	private static final String FILE_CONTENT = "FILE CONTENTS";
 	private static final String WORD_COUNT = "WORD COUNTS";
 	

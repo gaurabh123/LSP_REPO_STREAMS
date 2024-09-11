@@ -8,6 +8,7 @@ import java.util.Map;
  * 
  */
 public class WordCounter {
+	
     public String stringFromFile;
     
     /**
